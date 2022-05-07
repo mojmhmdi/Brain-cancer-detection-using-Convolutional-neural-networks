@@ -4,7 +4,7 @@ https://drive.google.com/drive/folders/13n6xLWZ5PpRgtG-iwhfiAZXh4ZXKF-8p?usp=sha
 After downloading the dataset, save it in the same directory as the codes with the same name.
 
 How to run the code:
--open a terminal in the directory where the code is stored and run the following command: python main.py
+open a terminal in the directory where the code is stored and run the following command: python main.py
 
 dataset description:
 the dataset includes 253 MRI images of brain categorized in two lasses:
