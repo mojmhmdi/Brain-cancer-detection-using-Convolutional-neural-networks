@@ -11,7 +11,7 @@ How to run the code:
 open a terminal in the directory where the code is stored and run the following command: python main.py
 
 dataset description: 
-the dataset includes 253 MRI images of brain categorized in two lasses: 
+the dataset includes 253 MRI images of brain categorized in two classes: 
 1- brain with tumor 
 2- normal brain
 
