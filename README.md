@@ -2,7 +2,7 @@
 
 Repository description: 
 
--This repository includes the python code for the brain tumor MRI image detection using convolutional neural netwotks. 
+-This repository contains the python code for brain tumor MRI image detection using convolutional neural netwotks. 
 you can download the data set from the following link: 
 https://drive.google.com/drive/folders/13n6xLWZ5PpRgtG-iwhfiAZXh4ZXKF-8p?usp=sharing  
 After downloading the dataset, save it in the same directory as the codes (keep the name of the foldor as it is).
